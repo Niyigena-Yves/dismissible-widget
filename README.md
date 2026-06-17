@@ -30,4 +30,4 @@ The demo demonstrates three essential `Dismissible` widget attributes:
 
 ## Screenshots
 
-![Dismissible Demo UI](screenshot.png)
+![Dismissible Demo UI](DemoScreenshot.png)
